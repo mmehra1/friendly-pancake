@@ -1,3 +1,5 @@
+Totally changed the file
+
 Welcome!
 
 We'll be using Gitter again for chat, although we'll be in a different room today. Please click the icon below to enter it:
